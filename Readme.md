@@ -1,3 +1,5 @@
+Project: Using tagged images from Flickr, create labeled training-data to train a machine learning model that will take an image and return a written description of the image.
+
 This application was developed in Google Colab and will work best there. If you want to run the notebooks as is, without having to change the code to point to local storage, please send us a message so we can add you to the Google Drive directory.
 Data Processing
 1.	Begin in the “Get_Flickr_Pics/Store_in_MongoDB” notebook located in Google Colab.
